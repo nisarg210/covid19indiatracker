@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap");
+.App {
+  margin: 0px;
+  padding: 0;
+
+  text-align: center;
+  background-color: #161625 !important;
+  font-size: 24px;
+  /* font-family: "archia"; 161625*/
+  /* font-family: "Montserrat Alternates", sans-serif; */
+  font-family: "Quicksand", sans-serif;
+}
+
+
+.frm{
+  width: 50% !important;
+  font-size: 20px;
+}
+
+
+
+.blockquote-footer{
+  color:white !important;
+}
+
+
+.btn-lg {
+  font-size: 20px;
+}
+
+.title {
+  background: ghostwhite;
+  font-size: 25px;
+  padding: 10px;
+  border: 1px solid lightgray;
+  margin: 0px;
+}
+
+
+input {
+  text-align: center;
+}
+
+::-webkit-input-placeholder {
+  text-align: center;
+}
+
+:-moz-placeholder {
+  text-align: center;
+}
+.whitee{
+  
+  color: white;
+}

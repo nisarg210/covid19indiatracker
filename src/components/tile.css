@@ -1,0 +1,33 @@
+.custom-bg {
+    background-color: #161625 !important;
+    font-size: 24px;
+    
+  }
+  .total{
+      font-size: 24px;
+  }
+  #New {
+    color: #ff3300;
+    text-align: center !important
+  }
+  .inc {
+   
+    font-size: 30px;
+  }
+  #Recovered {
+    color: #28a745;
+    text-align: center !important
+  }
+  #Active {
+    color: #007bff;
+    text-align: center !important
+  }
+  #Death {
+    color: grey;
+    text-align: center !important
+  }
+  .shadow:hover {
+    background-color: rgba(232, 236, 241, 0.1) !important;
+    transition: background-color 0.5s ease-in-out;
+    cursor: pointer;
+  }

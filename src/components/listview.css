@@ -1,0 +1,50 @@
+.row_name{
+    text-align: left !important;
+}
+.row_data{
+    text-align: right !important;
+}
+.tablec{
+    font-size: 20px;
+    color:white;
+   background-color: rgba(22, 22, 37, 0.1) !important;
+   --bs-table-hover-bg: rgba(232, 236, 241, 0.1);
+   --bs-table-hover-color: white;
+  }
+  #Newt {
+    /* color: #e23028; */
+    color: #ff3300;
+  }
+  .inc {
+   
+    font-size: 30px;
+  }
+  #Recoveredt {
+    color: #28a745;
+  }
+  #Activet {
+    color: #007bff;
+  }
+  #Deatht {
+    color: grey;
+  }
+  #Namet {
+    color: rgb(255, 176, 143);
+  }
+  /* //rgba(232, 236, 241, 0.1) */
+  #Newtab:hover {
+    /* color: #e23028; */
+    color: #ff3300;
+  }
+  #Activetab:hover {
+    /* color: #e23028; */
+    color: #007bff;
+  }
+  #Recoveredtab:hover {
+    /* color: #e23028; */
+    color: #28a745;
+  }
+  #Deathtab:hover {
+    /* color: #e23028; */
+    color: grey;
+  }
